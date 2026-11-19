@@ -1,0 +1,5 @@
+# 2026-11-19T06:50:22Z N=10000 in_flight=50 runs=5
+# python 3.13.5
+client,median_s,runs,status
+niquests,11.854,12.05 11.93 11.85 11.74 11.78,OK
+niquests_session_verify,12.077,12.08 12.36 11.81 15.62 11.86,OK

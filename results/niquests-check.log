@@ -1,0 +1,10 @@
+# run 1 niquests 12.053
+# run 1 niquests_session_verify 12.077
+# run 2 niquests 11.929
+# run 2 niquests_session_verify 12.357
+# run 3 niquests 11.854
+# run 3 niquests_session_verify 11.813
+# run 4 niquests 11.739
+# run 4 niquests_session_verify 15.624
+# run 5 niquests 11.779
+# run 5 niquests_session_verify 11.863
